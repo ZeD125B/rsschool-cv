@@ -21,3 +21,10 @@ My main goal is to become a frontend developer. I learned about such programming
     function descendingOrder(n) {
       return +n.toString().split('').sort((a, b) => b - a).join('');
     }
+
+## experience
+
+- looked at the html and css course from brains cloud.
+- I got acquainted with the course of Ivan Petrichenko on Udemy.
+
+## My level of English is A2
