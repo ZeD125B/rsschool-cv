@@ -15,3 +15,9 @@ My main goal is to become a frontend developer. I learned about such programming
 - I have basic knowledge of Java Script, git, HTML, css, sass.
 - I use developer tools to debug my code.
 - I have the skills to search for information on the Internet.
+
+## code example
+
+    function descendingOrder(n) {
+      return +n.toString().split('').sort((a, b) => b - a).join('');
+    }
