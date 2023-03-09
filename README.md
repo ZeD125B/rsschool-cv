@@ -1,1 +1,1 @@
-https://zed125b.github.io/rsschool-cv/cv
+https://zed125b.github.io/rsschool-cv/
